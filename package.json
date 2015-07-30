@@ -1,0 +1,12 @@
+{
+  "name":"DownloadCommonMisspellingsFromWikipedia",
+  "version":"0.0.0-1",
+  "repositiory":"joshterrell805/DownloadCommonMisspellingsFromWikipedia",
+  "main":"index.njs",
+  "dependencies": {
+    "promise": "*",
+    "promiseHtml": "git://github.com/joshterrell805/promiseHtml.git",
+    "lodash": "*",
+    "cheerio": "*"
+  }
+}
